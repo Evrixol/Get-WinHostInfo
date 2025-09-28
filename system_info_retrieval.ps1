@@ -1,8 +1,8 @@
 <#
-	This Power-Shell script is part of a one file batch script that will retrieve basic information
-	about a computer that it is executed upon. This script has been made with the intent to be run
-	upon a system running Windows of major version 20H2 - 24H2 (That is, Windows 10 / 11).
-	
+	This Power-Shell script is a part of a set of scripts that will retrieve basic information about
+	a computer that it is executed upon. This script has been made with the intent to be run upon a
+	system running Windows of major version 20H2 - 24H2 (That is, Windows 10 / 11).
+
 	The information retreived will simply be written to a console window. If the script has been
 	executed outside of a console window one will be opened for the purpose of executing the script,
 	once the script has completed its runtime the console window will close automatically.
