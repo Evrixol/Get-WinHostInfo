@@ -69,9 +69,9 @@
 # requests.
 function Write-Breaker {
 	for($i = 0; $i -LT 80; $i++) {
-		Write-Output "-"
+		Write-Host -NoNewLine "-"
 	}
-	Write-Output "`r`n"
+	Write-Host -NoNewLine "`r`n`r`n"
 }
 
 # Basic Input / Output System (BIOS)
